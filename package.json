@@ -1,0 +1,22 @@
+{
+  "name": "@baselime/structured-yml-logger",
+  "version": "1.0.0",
+  "description": "Please please please don't try use this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baselime/structured-yml-logger.git"
+  },
+  "author": "",
+  "license": "SEE LICENCE IN LICENCE",
+  "bugs": {
+    "url": "https://github.com/Baselime/structured-yml-logger/issues"
+  },
+  "homepage": "https://github.com/Baselime/structured-yml-logger#readme",
+  "dependencies": {
+    "yaml": "^2.2.1"
+  }
+}
